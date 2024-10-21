@@ -1,0 +1,919 @@
+#content {
+    /* display: flex; */
+
+
+}
+
+.image1 {
+    width: 1330px;
+    margin: 1px;
+}
+
+.image2 {
+    position: relative;
+    bottom: 730px;
+    left: 40px;
+    /* border: 2px solid; */
+    width: 90px;
+}
+
+
+ .a1{
+    text-decoration-line: none;
+    font-size: 25px;
+    color: red;
+    position: relative;
+    bottom: 730px;
+    left:680px;
+} 
+
+
+.a1:hover{
+    transform: scale(0.5);
+}
+
+input {
+    position: relative;
+    bottom: 730px;
+    left: 720px;
+    background-color: gold;
+    border-color: whitesmoke;
+}
+
+.fa {
+    position: relative;
+    bottom: 730px;
+    left: 700px;
+
+}
+
+hr {
+    position: relative;
+    bottom: 730px;
+
+}
+
+/*  */
+.div1-h3 {
+    position: relative;
+    bottom: 630px;
+    margin-left: 300px;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.div1-h2 {
+    position: relative;
+    bottom: 630px;
+    margin-left: 300px;
+    font-style: italic;
+    font-size: 50px;
+}
+
+.div1-p {
+    position: relative;
+    bottom: 630px;
+    margin-left: 300px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.div1-a {
+    position: relative;
+    bottom: 0px;
+    left: 10px;
+    font-style: italic;
+    font-size: 20px;
+    color: blue;
+    text-decoration-line: none;
+
+}
+
+#div2 {
+    display: flex;
+
+}
+
+.image3 {
+    width: 600px;
+    height: 500px;
+    /* margin-bottom: 1900px; */
+    position: absolute;
+    top: 100px;
+    margin-left: 700px;
+}
+
+#div3 {
+    display: flex;
+    width: 1330px;
+    height: 1900px;
+    background-color: black;
+    position: relative;
+    bottom: 440px;
+}
+
+.div3-h1 {
+    font-size: 60px;
+    color: aliceblue;
+    margin-left: 200px;
+    font-style: italic;
+}
+
+.div3-p {
+    font-size: 20px;
+    color: aliceblue;
+    font-style: italic;
+    margin-top: 150px;
+    position: relative;
+    right: 400px;
+}
+
+.b-content2 {
+    position: relative;
+    bottom: 2600px;
+    left: 300px;
+    font-size: 30px;
+    color: aliceblue;
+    background-color: black;
+    border-color: aliceblue;
+    opacity: 1;
+    transition: 0.3s;
+}
+
+.b-content2:hover {
+    opacity: 0.6
+}
+
+
+
+.image4 {
+    width: 650px;
+    height: 600px;
+    position: relative;
+    bottom: 2330px;
+    left: 420px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.content2-h1 {
+    width: 200px;
+
+    color:white;
+    /* background-color: aliceblue; */
+    position: relative;
+    bottom: 2450px;
+    left: 920px;
+    font-size: 25px;
+}
+
+.div1-a{
+    font-size: 25px;
+    color: black;
+    /* background-color: aliceblue; */
+    /* position: relative;
+    bottom: 25px;
+    left: 205px; */
+}
+
+.content3-h4 {
+    position: relative;
+    bottom: 2300px;
+    margin-left: 500px;
+    color: aliceblue;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.content3-h2 {
+    position: relative;
+    bottom: 2350px;
+    margin-left: 500px;
+    color: aliceblue;
+    font-size: 60px;
+    font-style: italic;
+
+}
+
+.content3-h1 {
+    position: relative;
+    bottom: 2400px;
+    margin-left: 450px;
+    color: aliceblue;
+    font-size: 60px;
+    font-style: italic;
+
+}
+
+span {
+    position: relative;
+    bottom: 2300px;
+    margin-left: 30px;
+    color: antiquewhite;
+}
+
+.content3-p {
+    position: relative;
+    bottom: 2px;
+    margin-left: 30px;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    /* bottom: 20px; */
+
+}
+
+.span {
+    margin-top: 10px;
+    margin-left: 30px;
+    font-style: italic;
+    position: relative;
+    bottom: 2200px;
+    color: white;
+}
+
+.content3-p1 {
+    margin-top: 15px;
+    margin-left: 30px;
+    font-style: italic;
+    font-size: 20px;
+
+}
+
+.span1 {
+    margin-top: 80px;
+    margin-left: 26px;
+    font-style: italic;
+    position: relative;
+    bottom: 2100px;
+    color: white;
+}
+
+.content3-p2 {
+    margin-top: 30px;
+    margin-left: 26px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#content4 {
+    display: flex;
+}
+
+.image5 {
+    width: 400px;
+    height: 700px;
+    position: relative;
+    bottom: 2720px;
+    margin-left: 420px;
+    font-size: 40px;
+}
+
+.span2 {
+    position: relative;
+    bottom: 3330px;
+    color: white;
+    /* font-size: 10px; */
+    font-style: italic;
+}
+
+.content4-p {
+    margin-left: 850px;
+    font-size: 20px;
+    /* color: red; */
+}
+
+.span3 {
+    color: white;
+    position: relative;
+    bottom: 3200px;
+    margin-left: 850px;
+}
+
+.content4-p2 {
+    margin-left: 300px;
+    font-size: 20px;
+    position: relative;
+    bottom: 5px;
+    color: white;
+    margin-left: 850px;
+}
+
+.span4 {
+    color: white;
+    position: relative;
+    bottom: 3130px;
+    margin-left: 850px;
+}
+
+.content4-p3 {
+    margin-left: 300px;
+    font-size: 20px;
+    position: relative;
+    bottom: -10px;
+    color: white;
+    margin-left: 850px;
+}
+
+/*  */
+.div4 {
+    width: 1330px;
+    height: 800px;
+    background-color: rgb(216, 76, 106);
+    position: relative;
+    bottom: 2810px;
+}
+
+.image6 {
+    width: 400px;
+    height: 600px;
+    box-shadow: 20px 20px 50px rgba(255, 196, 0, 0.945);
+    margin: 100px;
+}
+
+.span5 {
+    position: relative;
+    bottom: 500px;
+    margin-left: -30px;
+    color: white;
+    font-size: 80px;
+    font-style: italic;
+}
+
+.div4-h1 {
+    font-size: 70px;
+    margin-left: 550px;
+}
+
+li {
+    position: relative;
+    bottom: 500px;
+    margin-left: 540px;
+    font-size: 20px;
+    color: white;
+    /* font-style: italic; */
+}
+
+.div4-p {
+    position: relative;
+    bottom: 500px;
+    /* left: 700px; */
+    margin-left: 700px;
+}
+
+.div4-a {
+    margin-left: 2px;
+    left: 2px;
+    bottom: 1px;
+    font-size: 17px;
+    background-color: rgb(216, 76, 106);
+    color: blue;
+}
+
+.div5 {
+
+    width: 1330px;
+    height: 900px;
+    background-color: black;
+    position: relative;
+    bottom: 2840px;
+}
+
+.div5-h1{
+    font-size: 60px;
+    color:white;
+    margin-left: 100px;
+    position: relative;
+    font-style: italic;
+    /* top: 10px; */
+    
+}
+
+ .div5-h2{
+    font-size: 20px;
+    color:white;
+    margin-left: 100px;
+    position: relative;
+    font-style: italic;
+    margin-top: -40px;
+    
+}
+.div5-p{
+    font-size: 20px;
+    color:white;
+    margin-left: 100px;
+    position: relative;
+    font-style: italic; 
+    /* margin-top:x`x 10px; */
+    
+
+}
+ .image7{
+  width: 100px;
+  height: 100px;
+  margin-left:100px ;
+ 
+}
+ .div5-h3{
+      
+    margin-left: 80px;
+    color: white;
+    position: relative;
+    bottom: 10px;
+} 
+
+ .image8{
+    width: 100px;
+    height: 100px;
+     margin-left:100px ; 
+    background-color: rgba(238, 176, 18, 0.966);
+  } 
+   .div5-h4{
+    margin-left:100px ;
+    color: white;
+  }  
+  #sec4{
+    display: flex;
+  }
+.in1{
+    position: relative;
+    bottom:3500px;
+    background-color: black;
+     font-size: 30px;
+     color: white;    
+}
+.in2{
+    position: relative;
+    bottom:3500px;
+
+    background-color: black;
+     font-size: 30px;  
+     color: white;  
+}
+.in3{
+    
+    position: relative;
+    bottom:3500px;
+    background-color: black;
+     font-size: 30px;  
+     color: white;  
+}
+.in4{
+    
+    position: relative;
+    bottom:3500px;
+
+    background-color: black;
+     font-size: 30px;    
+}
+.in6{
+    
+    position: relative;
+    bottom:3540px;
+    left: 740px;
+    /* background-color: black/; */
+     font-size: 20px;    
+     color:white;
+}
+.div6-b{
+    position: relative;
+    bottom:3540px;
+    left: 740px;
+    font-size: 30px;
+    color: black;
+    background-color: goldenrod;
+    border-radius: 50px;
+
+}
+
+
+
+
+
+
+@media screen and (max-width:450px) {
+    .image1 {
+        width: 425px;
+        height: 550px;
+        margin-right: 30px;
+    }
+
+    .image2 {
+        position: relative;
+        bottom: 540px;
+        left: 10px;
+    }
+
+    .a1{
+        position: relative;
+        bottom: 540px;
+        left: 30px;
+        text-decoration-line: none;
+        /* text-decoration-color: aqua; */
+        font-size: 30px;
+        color:blue;
+    }
+
+    input {
+        position: relative;
+        bottom: 540px;
+        left: 40px;
+        background-color: gold;
+        border-color: whitesmoke;
+    }
+
+    .fa {
+        position: relative;
+        bottom: 540px;
+        left: 10px;
+    }
+
+    hr {
+        position: relative;
+        bottom: 540px;
+        width: 424px;
+    }
+
+    
+    .div1-h3 {
+        position: relative;
+        bottom: 440px;
+        /* left: 30px; */
+        margin-left: 80px;
+        font-style: italic;
+    }
+
+    .div1-h2 {
+        position: relative;
+        bottom: 440px;
+        margin-left: 80px;
+        font-size: 30px;
+        font-style: italic;
+    }
+
+    .div1-p {
+        position: relative;
+        bottom: 440px;
+        margin-left: 80px;
+        font-size: 20px;
+        position: relative;
+        bottom: 440px;
+        margin-left: 80px;
+        font-style: italic;
+
+    }
+
+    .div1-a {
+        position: relative;
+        bottom: 1px;
+        left: 2px;
+        /* margin-left: px; */
+        font-size: 20px;
+        /* margin-right: 35px; */
+        font-size: 20px;
+        font-style: italic;
+        color: blue;
+    }
+
+    /*  */  
+    #div2 {
+        display: flex;
+
+
+    }
+
+    .image3 {
+        width: 425px;
+        margin-left: 1px;
+        top: 500px;
+    }
+
+    #div3 {
+        top: 70px;
+        width: 425px;
+        height: 2490px;
+    }
+
+    .div3-h1 {
+        font-size: 40px;
+        margin-left: 140px;
+    }
+
+    .div3-p {
+        font-size: 10px;
+        right: 150px;
+    }
+
+    .b-content2 {
+        position: relative;
+        bottom: 2150px;
+        left: 150px;
+        font-size: 17px;
+        opacity: 1;
+        transition: 0.3s;
+    }
+
+    .b-content2:hover {
+        opacity: 0.6
+    }
+
+    .image4 {
+        width: 320px;
+        height: 300px;
+        position: relative;
+        left: 40px;
+        /* right: 70px; */
+        bottom: 2100px;
+        font-size: 25px;
+        /* transform: rotate(20deg); */
+    }
+
+    .content2-h1 {
+        position: relative;
+        left: 140px;
+        bottom: 2110px;
+        font-size: 20px;
+    }
+
+    a {
+        position: relative;
+        left: 10px;
+        bottom: -1px;
+        color: blue;
+        font-size: 20px;
+        text-decoration-line: none;
+    }
+
+     .content3-h4 {
+        color: white;
+        position: relative;
+        right: 350px;
+        margin-top: 200px;
+        /* font-size: 50px; */
+        /* display: flex; */
+    } 
+    /* .content3-h4{
+        
+            padding: 0;
+            list-style-type: none;
+            position: relative;
+            top: 400px;
+            font-size: 20px;
+            color: red;
+    
+    } */
+
+    .content3-h2 {
+        color: white;
+        position: relative;
+        right: 350px;
+        margin-top: 60px;
+        font-size: 30px;
+
+    }
+
+    .content3-h1 {
+        color: white;
+        position: relative;
+        right: 350px;
+        margin-top: 50px;
+        font-size: 20px;
+
+    }
+
+    span {
+        position: relative;
+        bottom: 2400px;
+        left: 50px;
+    }
+
+
+
+    .content3-p {
+        margin-left: 4px;
+    }
+
+    .span {
+        color: white;
+        position: relative;
+        bottom: 2400px;
+        left: 40px;
+    }
+
+    .content3-p1 {
+        position: relative;
+        top: 7px;
+        margin-left: -10px;
+
+    }
+
+    .span1 {
+        color: white;
+        margin-left: 10px;
+        position: relative;
+        bottom: 2390px;
+    }
+
+    .content3-p2 {
+        color: white;
+        margin-left: -10px;
+        margin-bottom: 30px;
+    }
+
+    #content4 {
+        display: flex;
+    }
+
+    .image5 {
+        width: 300px;
+        height: 400px;
+        /* position: relative;
+        right: 300px; */
+        margin-top: 400px;
+        margin-left: 50px;
+        box-shadow: 5px 5px 15px red;
+    }
+
+    .span2 {
+
+        color: white;
+        margin-left: 70px;
+        /* margin-bottom: 100px; */
+        /* margin-top: 900px; */
+        position: relative;
+        bottom: 2700px;
+    }
+
+    .content4-p {
+        margin-left: 10px;
+    }
+
+    .span3 {
+
+        color: white;
+        margin-left: 90px;
+        position: relative;
+        /* position: relative; */
+        bottom: 2600px;
+
+    }
+
+    .content4-p2 {
+        margin-left: 10px;
+    }
+
+    .span4 {
+
+        color: white;
+        margin-left: 70px;
+        position: relative;
+        bottom: 2700px;
+    }
+
+    .content4-p3 {
+        margin-left: 10px;
+    }
+
+    .div4 {
+        width: 425px;
+        height: 900px;
+    }
+
+    .image6 {
+        width: 350px;
+        height: 480px;
+        margin-left: 35px;
+    }
+
+    .div4 {
+
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+
+    .span5 {
+        display: block;
+        width: 100%;
+        position: relative;
+        bottom: 100px;
+        font-size: 30px;
+    }
+
+    .div4-h1 {
+        font-size: 1.2em;
+        margin: 10px 0;
+    }
+
+    ul {
+        padding: 0;
+        list-style-type: none;
+        position: relative;
+        top: 400px;
+        font-size: 20px;
+    }
+
+    li {
+        margin: 5px 0;
+    }
+
+    .div4-p {
+        margin-left: 20px;
+        margin-top: 450px;
+        font-style: italic;
+    }
+
+    .div5 {
+        width: 428px;
+        height: 1000px;
+        background-color: black;
+        margin-top: 30px;
+    }
+    .div5-h1{
+        position: relative;
+        right:60px;
+        font-size: 50px;
+
+    }
+    .div5-h2{
+        
+            position: relative;
+            /* right:190px; */
+            bottom: 50px;
+            left: -20px;
+            font-style: italic;
+    }
+    .div5-p{
+        
+        position: relative;
+        right:40px;
+        bottom: 50px;
+}
+
+.image7{
+    position: relative;
+        right:100px;
+        bottom: 100px;
+        left: -10px;
+
+}
+.div5-h3{
+    
+    position: relative;
+    bottom: 130px;
+
+
+
+}
+.image8{
+    position: relative;
+    right:100px;
+    bottom: 130px;
+    left: -10px;
+
+}
+.div5-h4
+{
+    position: relative;
+    right:100px;
+    bottom: 130px;
+    left: -10px;
+
+}
+ .in1{
+    font-size: 20px;
+    /* position: relative; */
+        margin-top: 300px;
+}.in2{
+    font-size: 20px;
+    /* position: relative; */
+        margin-top: 3px;
+}.in3{
+    font-size: 20px;
+    /* position: relative; */
+        margin-top: 3px;
+}
+.in6{
+    font-size: 15px;
+    /* position: relative; */
+        /* margin-top: 3px; */
+        color:white;
+    position: relative;
+    left: 70px;
+   margin-top: 25px;
+}
+.div6-b{
+    font-size: 20px;
+    /* position: relative; */
+        /* margin-top: 3px; */
+        /* color: brown; */
+    position: relative;
+    left: 70px;
+   margin-top: 25px;
+}
+
+
+      
+}
+
+
